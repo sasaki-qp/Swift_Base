@@ -10,5 +10,7 @@
         <page name='Optional'/>
         <page name='Async-Await'/>
         <page name='Protocol-Oriented-Design'/>
+        <page name='Generics'/>
+        <page name='Design-Pattern'/>
     </pages>
 </playground>
